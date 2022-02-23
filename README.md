@@ -1,6 +1,6 @@
 # razorWiki
 
-Razor wiki n shitz.  Make it better and add to it yo.
+Razor wiki n shitz.  [Make it better and add to it yo.](./CONTRIBUTING.md)
 
 ## [Battery stuffs](./batteries.md)
 
