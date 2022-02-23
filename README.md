@@ -2,12 +2,74 @@
 
 Razor parts wiki n shitz.  Make it better and add to it yo.
 
-## [MX500/650](./mx500And650.md)
+<!-- ## [MX500/650](./mx500And650.md)
 
 ## [RSF650](./rsf650.md)
 
 ## [MX350](./mx350.md)
 
-## [RSF350](./rsf350.md)
+## [RSF350](./rsf350.md) -->
 
-## [batteries](./batteries.md)
+## [Battery stuffs](./batteries.md)
+
+
+## MX500, 650 and RSF650
+
+## Motors
+
+* [Brushless 1020 3000 watt](https://www.aliexpress.com/item/4000250072388.html?spm=a2g0o.order_list.0.0.21ef1802ozHCez)
+  * Almost a direct fit.  Uses the same mount hole pattern.
+  * You just need to drill about 5mm down the cover of your motor to allow the bolt to rest flat so you can mount it.  Stop drilling once the bolt is flush with the top of the cover.  If you drill too deep you will need to do something hacky with washers n shit.  I think its these two bolts: ![These two bolts I believe](./images/1020Motor.jpeg)
+
+  * [This motor](https://www.aliexpress.com/item/4000250072388.html?spm=a2g0o.order_list.0.0.21ef1802ozHCez) has been verified to handle 250 phase amps and about 100 battery amps though it gets hot fast.  
+  * If you push it hard you'll need some heat sinks like [this]([http://someoneFindALinkPlzkthx](https://www.pwmall.com/p-210643-50_126-delavan_heat_sink_fits_all_4_diameter_delavan_motors_7870_7970_7871_7971_fb_series?fbclid=IwAR1qtVtE8GrEi5lMz8ljRAmksvRH3bCqQk6Q1Tn-cePhvMYAo2bQ8pyqhgA)): ![this](images/heatsink.jpeg)
+
+## Controllers
+
+* Little focer([US](https://www.makerspev.com/products/little-focer-rev3-standard?fromB=yes), [world wide](https://customwheel.shop/high-voltage-esc-motor-speed-controllers/little-focer-v3-esc-84v-20s?fromB=yes))
+  * Highly recommended.  100 battery amps and about 225 phase amps.  Bluetooth android app for super easy programming.![vesc tools](./images/vescUI.jpeg)  
+
+## Battery
+
+* [Greenway 48v battery](https://www.ebay.com/itm/255278257722)
+* **TODO** someone add more suggestions
+
+## Throttle
+
+* [Half twist key and volt display](https://www.amazon.com/gp/product/B08QF3MRHB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  * Half twist is good for not accidentally sending your bike through your door when bringing your bike inside.  Happens more than you would think.
+  * Display is hard to see in the sun.
+  * Grips will smell like cancer forever no matter how hard you try to clean it off.  Best to pick up [some better grips](https://www.amazon.com/gp/product/B08L4TGXGB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).  I think those will work for the half twist size but might be a bit big.  I like locking grips(bolt to lock it on the handlebars).
+
+## Brakes
+
+* [Zoom brakes](https://www.amazon.com/Zoom-Shenzhen-Hydraulic-Brakes-Mountain/dp/B081XN2KJL/ref=sr_1_3?crid=SH58WS6BQGRH&keywords=zoom+brakes&qid=1645588479&s=sporting-goods&sprefix=zoom+brakes%2Csporting%2C137&sr=1-3)
+  * I think those work.  Someone please verify.
+
+## Suspension fork
+
+* I think the [sx500 fork](https://razor.com/products/replacement-parts/shop-by-product/electric-scooter-parts/sx500-front-fork/) will work.  Otherwise, the mx500 fork will work.  Good luck finding one thats in stock lolz.
+
+## Rear shock
+
+* [165mm](https://www.amazon.com/gp/product/B00FLTZ2ZS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) for stock height
+* [190mm](https://www.amazon.com/gp/product/B07D1X18JH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) for 2 inch lift
+  * A bit stiff.  Try and find a lower lb spring.
+  * You will want to add some length to the front fork as well.  **Someone add a some deets for this.**
+
+## Connectors
+
+* [Small wire connectors](https://www.amazon.com/Swpeet-Automotive-Electrical-Connectors-Motorcycle/dp/B07DL6WRLP/ref=sr_1_6?crid=YVCEOCRL8ERG&keywords=2.8+with+terminals+Electrical+Wire+Connectors&qid=1645586926&sprefix=2.8+with+terminals+electrical+wire+connectors%2Caps%2C211&sr=8-6)([option 2](https://www.amazon.com/gp/product/B07BJGVJRG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1))
+  * Throttle, brake and hall wires for example
+  * `2.8 with terminals Electrical Wire Connectors` is what they are called.
+  * This is what most controllers use.
+  * You will need a [crimper](https://www.amazon.com/gp/product/B01N1RFZZ4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [XT90s](https://www.amazon.com/Amass-Connector-Anti-Spark-Battery-Charger/dp/B074PTHZ3M/ref=sr_1_2?crid=374B062FKB4N2&keywords=xt90s&qid=1645583218&sprefix=xt90%2Caps%2C344&sr=8-2) connectors for the battery is recommended to avoid sparking when plugging the battery into the controller.
+  * Stick with the amass branded connectors.
+  * They are rated for 100a.  If you have a 300a battery you can just use 3 connectors for example.
+  * They can use up to [10 gauge silicone wire](https://www.amazon.com/10-Gauge-Silicone-Wire-Feet/dp/B007DMW3IU).  Any larger than that is a waste and hard to solder.
+* [Bullet connectors](https://www.amazon.com/Generic-5-5mm-Gold-Bullet-Connector/dp/B01MRXLVRD/ref=sr_1_4?keywords=5.5mm+bullet+connector&qid=1645583504&sprefix=5.5mm+bull%2Caps%2C221&sr=8-4) for the motor phase wires.
+  * See the image below for amp ratings.  I use 5.5mm bullets for everything because they do about 100 amps.  If I need more amps I just do 1 connector per phase per 100 amps.  I basically just match them up with the same number of XT90s connectors I use.  ![amp ratings](./images/bullets.jpeg)
+  * Depending on the controller you get you'll want to replace the phase wires to use bullet connectors so that you don't have to use one of these shit boxes: ![shit boxes](./images/shitBox.jpeg)
+  * The shit boxes are nothing but problems because the plastic melts easily when the nuts come loose.  I have seen this many times and it usually does'nt end well and can take your controller down with it.
+  * If your controller has built in phase wire mounts(like the one below) you should be fine to just go with whats built in. ![ok controller mount](./images/kelly.png)
