@@ -1,6 +1,6 @@
 # razorWiki
 
-Razor parts wiki n shitz.  Make it better and add to it yo.
+Razor wiki n shitz.  Make it better and add to it yo.
 
 ## [Battery stuffs](./batteries.md)
 
@@ -17,4 +17,3 @@ Razor parts wiki n shitz.  Make it better and add to it yo.
 ## [MX350](./mx350.md)
 
 ## [RSF350](./rsf350.md)
-
