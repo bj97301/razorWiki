@@ -12,5 +12,5 @@
 ## eBay
 
 * I tried to find a cheap 30ah 48v battery on eBay, what a shit show. These eBay sellers are getting really bad. Don’t be fooled by the huge ah rating. There’s no possible way to cram that much capacity in a 3p battery. The cells would need to be 10,000 mah each. No 18650 can even come close to that and I highly doubt they are using larger cells.  I am sure the other specs are inflated as well like amp rating.  If you exceed the amp rating on the battery you may cause cells to pop and cause the whole pack to go up in flames during a full throttle pull, especially with a low quality BMS.  I messaged one of the sellers(screenshots below) to try and get the cell they are using so I could calculate the ah rating myself and they tried really hard to scam me. Please be careful on eBay. It may be an ok cheap battery when low amps are drawn but the specs are 100% fake.
-  * ![poo](images/ebayPoo.jpeg)
+  * ![poo](images/ebayPoo.png)
   * <a href="ebayMessages.md" target="_blank">eBay messages from seller of scam item</a>
