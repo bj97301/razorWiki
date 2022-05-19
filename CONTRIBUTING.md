@@ -1,5 +1,9 @@
 # How to contribute
 
+## [Submit a bugs(issues)](https://github.com/bj97301/razorWiki/issues/new)
+
+## Add content
+
 * View the project on GitHub. ![View on GitHub button](./images/contributing/8ABF4377-DCB6-4F11-8A7F-5E295029AC22.jpeg)
 * Navigate to the file you want to edit.
 * Click the edit button on the file you want to update.  You can do more than one file at a time. ![edit](./images/contributing/1editButton.png)
