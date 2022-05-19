@@ -1,4 +1,4 @@
-# messages from ebay seller
+# messages from eBay seller
 
 ## read top to bottom by scrolling to the [end](#end) first
 

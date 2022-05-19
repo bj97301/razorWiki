@@ -1,10 +1,21 @@
 {
     "cSpell.words": [
+        "Aliexpress",
+        "BLDC",
+        "Brushless",
         "deets",
+        "Electrek",
         "focer",
         "Greenway",
+        "herrr",
+        "Kunray",
         "linebreak",
         "lolz",
-        "shitz"
-    ]
+        "shitz",
+        "vesc"
+    ],
+    "grammarly.selectors": [{
+        "language": "markdown",
+        "scheme": "file"
+    }]
 }
