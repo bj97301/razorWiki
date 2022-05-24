@@ -22,7 +22,7 @@
   * To adapt to the proper axle size of the fork.
 * [Spacers](https://www.amazon.com/Sumind-Pieces-Carbon-Headset-Bicycle/dp/B076QBGXPF)
 * [Stem](https://www.flybikes.com/product/volcano-35-stem)
-* [Bearing spacers](https://www.amazon.com/dp/B07YCG656M/ref=cm_sw_r_cp_api_i_N6ZHRQYE55EQ0GBRHWTW?_encoding=UTF8&psc=1) goes between the bearing on the inside of the wheel's hub. 
+* [Bearing spacers](https://www.amazon.com/dp/B07YCG656M/ref=cm_sw_r_cp_api_i_N6ZHRQYE55EQ0GBRHWTW?_encoding=UTF8&psc=1) goes between the bearing on the inside of the wheel's hub.  Needs to be the exact same length as the old spacer that comes out of the hub.  
 
 ## Instructions
 
