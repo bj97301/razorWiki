@@ -3,7 +3,7 @@
 ## Read first
 
 This requires a lot of dedication and skill. Don't attempt this if you are afraid to weld, grind up a frame or deal with brake shenanigans.
- ![shenanigans](./images/shenanigans.gif)
+ ![shenanigans](./images/CCC9C7D5-5101-4CE0-AC07-FBAD6A4A9D1A.gif)
 
 ## Credit to [Jacob Clabough](https://www.facebook.com/groups/1839203032984918/user/100075828996841/) for finding the parts
 
