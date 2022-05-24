@@ -22,6 +22,7 @@
   * To adapt to the proper axle size of the fork.
 * [Spacers](https://www.amazon.com/Sumind-Pieces-Carbon-Headset-Bicycle/dp/B076QBGXPF)
 * [Stem](https://www.flybikes.com/product/volcano-35-stem)
+* [Bearing spacers](Bryan Joseph uxcell 6063 Aluminum Round Tube, 300mm Length 20mm OD 15mm Inner Dia Seamless Aluminum Straight Tubing 2 Pcs https://www.amazon.com/dp/B07YCG656M/ref=cm_sw_r_cp_api_i_N6ZHRQYE55EQ0GBRHWTW?_encoding=UTF8&psc=1) goes between the bearing on the wheel and the forks. 
 
 ## Instructions
 
