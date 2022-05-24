@@ -2,11 +2,16 @@
 
 ## Credit to [Jacob Clabough](https://www.facebook.com/groups/1839203032984918/user/100075828996841/) for finding the parts
 
-## Tools
+## Major Tools Required
 
 * [Welder](https://www.amazon.com/DEKOPRO-Machine-Digital-Display-Electrode/dp/B07NWFB2S9)
   * [Rods](https://www.amazon.com/gp/product/B000TGEFQA)
   * [A way to hold shit in place](https://www.amazon.com/gp/product/B00JXDSVA6)
+* [Angle Grinder](https://www.youtube.com/results?search_query=best+angle+grinder+project+farm)
+  * [Cutting Disk](https://www.youtube.com/watch?v=7Ase0GXjx4w)
+  * Optional but can be handy
+    * Sanding Disk
+    * Wire Disk
 
 ## Parts List
 
