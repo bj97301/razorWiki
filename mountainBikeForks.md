@@ -11,7 +11,7 @@
   * [Cutting Disk](https://www.youtube.com/watch?v=7Ase0GXjx4w)
   * Optional but can be handy
     * Sanding Disk
-    * Wire Disk
+    * Wire Wheel
 
 ## Parts List
 
