@@ -1,4 +1,4 @@
-# Batteries
+# Batteries N Shit
 
 ## Buying used lithium-ion batteries
 
@@ -14,3 +14,9 @@
 * I tried to find a cheap 30ah 48v battery on eBay, what a shit show. These eBay sellers are getting really bad. Don’t be fooled by the huge ah rating. There’s no possible way to cram that much capacity in a 3p battery. The cells would need to be 10,000 mah each. No 18650 can even come close to that and I highly doubt they are using larger cells.  I am sure the other specs are inflated as well like amp rating.  If you exceed the amp rating on the battery you may cause cells to pop and cause the whole pack to go up in flames during a full-throttle pull, especially with a low-quality BMS.  I messaged one of the sellers(screenshots below) to try and get the cell they are using so I could calculate the ah rating myself and they tried really hard to scam me. Please be careful on eBay. It may be an ok cheap battery when low amps are drawn but the specs are 100% fake.
   * ![ebaypoo](images/ebayPoo.png)
   * [eBay messages from the seller of the scam item](ebayMessages.md#end)
+
+## Note Regarding Fuses
+
+I don't use fuses because from my experience maintaining fleets of hundreds of electric scooters, the fuses are only another point of failure. The BMS has over current protection already that works way better than a fuse. A lot of time the fuses will overheat and increase in resistance over time until something fails. We had batteries with fuses built-in after the BMS and were not user-serviceable which caused a lot of them to be sent back to us. They have also caused failures in other systems due to the added resistance when they wear out slowly over time.  We experienced premature BMS over current protection issues and cell failures from the added current from the resistance in the fuse.  
+
+That being said, there are ways to implement user-serviceable fuses that flip on and off. This solves some problems but not all. I know the Sur Ron bike uses a fuse instead of a pre-charge circuit. However, I absolutely disagree with this as it only serves to move the spark into the fuse rather than on the plug. This will allow for carbon build-up on the fuse connection and added resistance within the fuse that leads to the same problems as listed above. A better solution is to have xt90s(or another connector with a pre-charge circuit/resistor built-in) and no fuse.
