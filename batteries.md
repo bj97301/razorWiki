@@ -1,5 +1,9 @@
 # Batteries N Shit
 
+## [Try to get a UL certified battery](https://youtu.be/VezC1h00XMM)
+
+
+
 ## Buying used lithium-ion batteries
 
 * When you first get the battery test the voltage from the discharge plug(the one with the thickest wires coming out). If way less than the rated voltage proceed with immense caution. The BMS shut itself off for some reason. The most likely reason is that the cells were under voltage and the BMS cut off the discharge port to prevent the cells from reaching a much lower voltage and causing permanent damage. To wake the BMS up plug in the charger for about a minute then test the voltage again. Hopefully, it should be in a more reasonable range.  If the BMS does not turn itself back on I would return the battery. It’s not worth catching your house on fire 🔥.  The BMS has good reason to not turn itself back on, usually.  Do not attempt to continue charging it.
