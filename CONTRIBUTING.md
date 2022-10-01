@@ -1,3 +1,6 @@
+# The razor wiki has been migrated to the electric moto forum.  Please visit [electricmoto.org](https://forum.electricmoto.org/t/mx500-mx650-and-rsf650-wiki) for updated wikis.
+
+
 # How to contribute
 
 ## [Submit a bugs(issues)](https://github.com/bj97301/razorWiki/issues/new)
